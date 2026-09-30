@@ -1,0 +1,45 @@
+{
+  "raw_rows": 13519,
+  "raw_complete_rows": 13187,
+  "invalid_smiles": [],
+  "unique_structures": 13461,
+  "complete_unique_structures": 13129,
+  "eligible_complete": 3473,
+  "both_pass": 1224,
+  "scaffolds": 1996,
+  "acyclic_eligible": 3,
+  "duplicate_extra_rows": 58,
+  "duplicate_threshold_conflicts": {
+    "PCT_INHB_DD2": 16,
+    "PCT_INHIB_HEPG2": 10
+  },
+  "partitions": {
+    "development": 1389,
+    "replay_train": 1215,
+    "candidate": 695,
+    "replay_calibration": 174
+  },
+  "development_partitions": {
+    "train": 903,
+    "validation": 347,
+    "calibration": 139
+  },
+  "source_sha256": "1cc5521c77b1d1758fc708f0295d380cd429ebe038c6c45dd7cfe7b782d658c6",
+  "eligible_sha256": "190a45457dc16cc38f18522a2348745b44973efbb4850da325b4b9ca06dde193",
+  "rdkit_version": "2026.03.6",
+  "feature_count": 2049,
+  "endpoint_ranges": {
+    "pXC50_3D7": [
+      5.69917,
+      8.59197
+    ],
+    "PCT_INHB_DD2": [
+      0.0,
+      100.0
+    ],
+    "PCT_INHIB_HEPG2": [
+      0.0,
+      100.0
+    ]
+  }
+}

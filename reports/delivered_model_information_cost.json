@@ -1,0 +1,10 @@
+{
+  "distinct_training_compounds": 1215,
+  "distinct_calibration_compounds": 174,
+  "total_followup_assay_units": 2778,
+  "offline_development_assay_units": 2778,
+  "development_plus_delivered_model_assay_units": 5556,
+  "heldout_evaluation_only_assay_units": 1390,
+  "known_3d7_cost": "declared sunk cost",
+  "note": "Union of labels used by the delivered five-run aggregate; individual-run costs are in final_metrics.csv. Development labels are a separately disclosed offline research cost; held-out evaluation labels never enter the learner."
+}

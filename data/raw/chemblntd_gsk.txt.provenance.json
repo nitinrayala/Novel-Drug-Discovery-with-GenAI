@@ -1,0 +1,7 @@
+{
+  "source_url": "https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set1_gsk/chemblntd_gsk.txt.gz",
+  "sha256": "1cc5521c77b1d1758fc708f0295d380cd429ebe038c6c45dd7cfe7b782d658c6",
+  "recorded_at_utc": "2026-09-30T05:40:07.269592+00:00",
+  "bytes": 670135,
+  "license": "CC0 (GSK deposition)"
+}

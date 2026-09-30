@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "candidate_predictions_verified": 695,
+  "scaffold_separation_verified": true,
+  "features_recomputed_and_matched": true,
+  "checkpoint_training_and_calibration_provenance_verified": true,
+  "checkpoints_sha256": {
+    "final/nall_seed11.pt": "dcc7839abf01eb52ad10149e9efaf7bc20d252acd0d671a397b91214357a03f5",
+    "final/nall_seed23.pt": "f23adc540f83f7bba5bb82c0490e9b9071891c675228260f03bde89717558481",
+    "final/nall_seed37.pt": "82f474a5d5e27db7a7b7244f53f7463bc6856ab99e06a47532c9362936460e49",
+    "final/nall_seed53.pt": "13e35a95166ee4870c763d2a13d275a78e18fa561482754726afbcca287317e1",
+    "final/nall_seed71.pt": "a8a9c910e2edd7ef97b17ab454ccd51e2272f95b8f934c13e6b715084a807af0"
+  },
+  "protocol_sha256": "eef29d76745cf267d0f337621098d3edc3e039a980cbd839cd3c8daa90200f44",
+  "frozen_selection_sha256": "c9176bc2a31b9e2a54784b5dd292c29efa4b3390cf5c5071149c1c8454f266f2",
+  "source_sha256": "1cc5521c77b1d1758fc708f0295d380cd429ebe038c6c45dd7cfe7b782d658c6",
+  "python": "3.13.2",
+  "torch": "2.14.0+cpu",
+  "rdkit": "2026.03.6"
+}
